@@ -14,7 +14,10 @@
     "resolveJsonModule": true,
     "isolatedModules": false,
     "declaration": true,
-    "outDir": "./dist"
+    "outDir": "./src/dist",
+    "jsx": "preserve",
+    "allowJs": true,
+    "skipLibCheck": true
   },
   "include": [
     "**/*.ts",

@@ -7,4 +7,9 @@ yarn-debug.log*
 yarn-error.log*
 
 # Output
+/.idea
+/.next
 dist
+/src/dist
+/*.env.*
+/*.lock
